@@ -5,11 +5,11 @@ title: "Joao Ozawa"
 <div style= "out.width:'40%'; float:right; position: relative; top: -80px; padding: 50px">
 ![](images/Joao Ozawa.jpg)
 </div>
+<br>
+Joao Ozawa is a PhD candidate in the School of Journalism and Media at the University of Texas at Austin. He is also a graduate research assistant at the Center for Media Engagement.
 
-I am a PhD candidate in the School of Journalism and Media at the University of Texas at Austin. I am also a graduate research assistant at the Center for Media Engagement.
+Ozawa studies political communication with a special focus on Latin America and diaspora communities in the United States. He works mainly with computational methods and interviews, and applies them both in mixed-methods research.
 
-I study political communication with a special focus on Latin America and diaspora communities in the United States. I work mainly with computational methods and interviews, and I really enjoy applying them both in mixed-methods research.
-
-I have 12 years of professional experience as a journalist. I have reported on-camera as Texas correspondent for Globo TV, a Brazilian media conglomerate and the largest TV network in Latin America. I have also worked for ten years hosting a Web TV and TV show focused on live music in Brazil.
+Ozawa has 12 years of professional experience as a journalist. He has reported on-camera as Texas correspondent for Globo TV, a Brazilian media conglomerate and the largest TV network in Latin America. He has also worked for ten years hosting a Web TV and TV show focused on live music in Brazil.
  
-Feel free to check my [CV](Joao Ozawa CV - July 2023.pdf) or send me an [email](mailto:j.ozawa@utexas.edu).
+Feel free to check Ozawa's [CV](Joao Ozawa CV - July 2023.pdf) or send him an [email](mailto:j.ozawa@utexas.edu).
