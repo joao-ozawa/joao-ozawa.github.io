@@ -1,28 +1,34 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Joao Ozawa"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Joao Ozawa"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
+    - text: "Research"
+      icon: fa-book
+      href: research.html
+    - text: "Practice"
+      icon: fa-tv
+      href: practice.html      
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:j.ozawa@utexas.edu
+    - text: "LinkedIn"
+      icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/joaovicenteseno/
+    - text: "Google Scholar"
+      icon: fa-graduation-cap
+      href: https://scholar.google.com/citations?user=PploU8QAAAAJ&hl=en&oi=ao
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/joao-ozawa
 output:
   html_document:
     theme: cosmo
