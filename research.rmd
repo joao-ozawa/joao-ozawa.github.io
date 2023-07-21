@@ -5,6 +5,8 @@ title: "Research"
 Here you find Joao Ozawa's latest publications.
 <br>
 <br>
+<b>Peer-reviewed publications</b>
+
 • <b>Ozawa, J.</b>, Lukito, J., Lee, T., Varma, A., & Alves, R. (2023). Attacks Against Journalists in Brazil: Catalyzing Effects and Resilience During Jair Bolsonaro's Government. <i>The International Journal of Press/Politics</i>. https://doi.org/10.1177/19401612231182618
 
 • <b>Ozawa, J.</b>, Woolley, S., Straubhaar, J., Riedl, M., Joseff, K., & Gursky, J. (2023). How Disinformation on WhatsApp Went from Campaign Weapon to Governmental Propaganda in Brazil. <i>Social Media + Society</i>, 9(1). https://doi.org/10.1177/20563051231160632
@@ -12,3 +14,59 @@ Here you find Joao Ozawa's latest publications.
 • Davis, S., <b>Ozawa, J.</b>, Straubhaar, J., & Woolley, S. (2023). When Right-Wing Populism Becomes Distorted Public Health Communication: Tracing the Roots of Jair Bolsonaro’s Epidemiological Denialism. <i>International Journal of Communication</i>, 17(0), 19. https://ijoc.org/index.php/ijoc/article/view/19729
 
 • Lukito, J., Cui, Z., Hu, A., Lee, T., & <b>Ozawa, J.</b> (2022). States vs. Social Movements: Protests and State Repression in Asia. <i>Media and Communication</i>, 10(4), 5–17. https://doi.org/10.17645/mac.v10i4.5623
+
+<b>White papers</b>
+
+•	Riedl, M. J., Ozawa, J., Woolley, S., & Garimella, K. (2022) Talking Politics on WhatsApp: A Survey of Cuban, Indian, and Mexican American Diaspora Communities in the United States [White paper]. Center for Media Engagement.
+
+<b>Book chapters</b>
+
+•	Ozawa, J., & Coburn, C. (Accepted). Computational Propaganda. In Stroud, S. R. (Ed.), Media, Ethics, and Democracy [Textbook]. Center for Media Engagement.
+
+<b>Peer-reviewed conference papers</b>
+
+•	Lee, T., Lukito, J., Varma, A., & Ozawa, J. (2023). Catalyzing Effects: Paradoxical Effects of Attempts to Chill on Journalism. Paper accepted for presentation at AEJMC 2023, Washington, DC.
+
+•	Riedl, M., Ozawa, J., Woolley, S., Trauthig, I., & Garimella, K. (2023). What affects misinformation encounters and sharing on WhatsApp? Surveying diasporic communities in the United States. Paper presented at ICA 2023, Toronto, Canada.
+
+•	Ozawa, J., & Straubhaar, J. (2022). United States vs Brazil: An Analysis of the Media’s Role on Right-Wing Extremism. Paper presented at Global Fusion 2022, Philadelphia, PA.
+
+•	Ozawa, J., Woolley, S., & Flores, E. (2022). Political Disinformation and Diasporic Online Communities in the United States. Paper presented at AEJMC 2022, Detroit, MI.
+
+•	Ozawa, J., Lukito, J., Lee, T. & Varma, A. (2022). Violence Against Journalists in Brazil: The Effects of Two Years of Jair Bolsonaro’s Government. Paper presented at AEJMC 2022, Detroit, MI.
+
+•	Davis, S., Ozawa, J., Straubhaar, J., & Woolley, S. (2022). When Right-wing Populism Becomes Distorted Public Health Communication: Tracing the Roots of Jair Bolsonaro’s Epidemiological Denialism. Paper presented at IAMCR 2022, Beijing, China.
+
+•	Lukito, J., Cui, Z., Hu, A., Lee, T., Ozawa, J. (2022). Propaganda before violence: A study of state coercion and media ecologies in five countries. Paper presented at ICA 2022, Paris, France.
+
+•	Ozawa, J. (2021). QAnon with a tropical flavor: the conspiracy theory goes to Brazil. Paper presented at the QAnonference 2021, Virtual Conference.
+
+•	Ozawa, J., Woolley, S., Straubhaar, J., Joseff, K., Gursky, J., & Riedl, M. (2021). How disinformation on WhatsApp went from campaign weapon to governmental propaganda in Brazil. Paper presented at ICA 2021, Virtual Conference.
+
+•	Ozawa, J., Vu, H., Mihailova, T., & McCombs, M. (2020). Impact of COVID-19 news coverage on personal concerns among the public. Paper presented at the Agenda Setting Journal Virtual Conference, Boulder, CO.
+
+•	Ozawa, J., Vu, H., Murthy, D., & McCombs, M. (2020). Agenda-setting Effects of Fake News on the Public’s Issue Agenda. Paper presented at AEJMC 2020, San Francisco, CA.
+
+•	Lee, T., Johnson, T., & Ozawa, J., (2020). What’s Fake News to You? How Divided Epistemologies Shape Perception of Fake News. Paper presented at AEJMC 2020, San Francisco, CA.
+
+•	Ozawa, J., Senise, D., & Batista, L. (2019). Applying social network analysis to compare mass media and interpersonal agenda-setting effects. Poster presented at the 10th Latin American Web Congress, held at The Web Conference 2019, San Francisco, CA.
+
+•	Ozawa, J., Senise, D., & Batista, L. (2018). Applying social network analysis to compare mass media and interpersonal agenda-setting effects. Paper presented at The Third International Workshop on News and Public Opinion, held at the 12th International AAAI Conference on Web and Social Media, Palo Alto, CA.
+
+•	Ozawa, J., & Batista, L. (2018). Applying agenda-setting theory and social network analysis in advertising and marketing studies. Paper presented at the IX Pró-Pesq, São Paulo, SP.
+
+•	Ozawa, J., & Batista, L. (2018). Social network analysis as a methodological proposal for agenda-setting theory studies. Paper presented at the II International Seminar of Research on Mediatization and Social Processes, São Leopoldo, Brazil.
+
+•	Ozawa, J., & Batista, L. (2017). Effects of social networks on interpersonal agenda-setting processes. Paper presented at the I Graduate Connection: Dialogues and Intersections in Student Research from PPGCOM, São Paulo, Brazil.
+
+•	Ozawa, J., & Batista, L. (2016). Interpersonal Agenda-Setting, Mediatization and Mediation: a possible theoretical dialogue. Paper presented at the XXXIX Brazilian Conference of Communication Sciences, São Paulo, Brazil.
+
+•	Ozawa, J., & Batista, L. (2016). Effects of social connections on interpersonal agenda-setting processes. Paper presented at the VII Academic Journey of the Students from PPGCOM, São Paulo, Brazil.
+
+•	Ozawa, J., & Lima, M. (2015). Twitter and the Traditional Media: A Study of Intermedia Agenda-Setting. Paper presented at the VI Pró-Pesq, São Paulo, Brazil.
+
+•	Ozawa, J., & Batista, L. (2010). A Flu and the Agenda-Setting Hypothesis. Paper presented at the I Pró-Pesq, São Paulo, Brazil.
+
+•	Ozawa, J., & Barros, C. (2008). Advertising and the Agenda-Setting Hypothesis. Paper presented at the XIII Conference of Communication Sciences in the Southeast Region, São Paulo, Brazil.
+
+•	Ozawa, J., & Barros, C. (2008). Definition of Value, Advertising and the Agenda-Setting Hypothesis. Paper presented at the XXXI Brazilian Conference of Communication Sciences, São Paulo, Brazil.
