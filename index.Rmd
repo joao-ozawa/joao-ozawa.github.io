@@ -6,9 +6,9 @@ title: "Joao Ozawa"
 ![](images/Joao Ozawa.jpg)
 </div>
 <br>
-João Ozawa is an Assistant Professor of Digital Journalism in the Department of Communication at the University of North Dakota. He earned his Ph.D. in Journalism and Media from the University of Texas at Austin, where he worked at the Center for Media Engagement.
+João Ozawa is an Assistant Professor in the Department of Communication at the University of North Dakota. He earned his Ph.D. in Journalism and Media from the University of Texas at Austin, where he worked at the Center for Media Engagement.
 
-Ozawa's research focuses on political communication, with a particular emphasis on Latin America and diaspora communities. His work covers topics such as political disinformation, extremism, authoritarian attacks on journalism, and the promotion of community journalism.
+Ozawa's research focuses on political communication, with a particular emphasis on Latin America and diaspora communities. His work covers topics such as political disinformation, extremism, authoritarian attacks on journalism, and community journalism.
 
 Ozawa primarily uses computational methods and interviews, applying both in mixed-methods research. His computational work involves using R for time series analysis, natural language processing, topic modeling, data visualization, data collection, and general statistical analysis.
 
