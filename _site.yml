@@ -12,10 +12,7 @@ navbar:
       href: research.html
     - text: "Journalism"
       icon: fa-tv
-      href: practice.html      
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: Joao Ozawa CV.pdf
+      href: practice.html
   right:
     - text: ""
       icon: fa-envelope-o
