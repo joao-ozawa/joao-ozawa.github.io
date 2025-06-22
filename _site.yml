@@ -23,9 +23,6 @@ navbar:
     - text: ""
       icon: fa-google
       href: https://scholar.google.com/citations?user=PploU8QAAAAJ&hl=en&oi=ao
-    - text: ""
-      icon: fa-github
-      href: https://github.com/joao-ozawa
 output:
   html_document:
     theme: readable
