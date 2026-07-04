@@ -5,9 +5,19 @@ title: "Research"
 Here you find Joao Ozawa's latest publications.
 <br>
 <br>
+<b>Book chapters</b>
+
+•	<b>Ozawa, J.</b>, & Woolley, S. (Accepted). Regulating Computational Propaganda: Brazil’s Supreme Court and the Battle Against Disinformation. In D. Guzek, J. Labarre, K. Koc-Michalska, D. Lilleker, & U. Russmann (Eds.), <i>Handbook of Digital Politics</i>. De Gruyter.
+
+•	Lukito, J. & <b>Ozawa, J.</b> (2026). Using Technology to Drive Social Change: Dark Participation and Social Movements in Brazil. In Z. Papacharissi (Ed.), <i>The Routledge Companion to Digital Media and Democracy</i>. Routledge.
+
 <b>Peer-reviewed publications</b>
 
-• <b>Ozawa, J.</b>, Lukito, J., Lee, T., Varma, A., & Alves, R. (2023). Attacks Against Journalists in Brazil: Catalyzing Effects and Resilience During Jair Bolsonaro's Government. <i>The International Journal of Press/Politics</i>. https://doi.org/10.1177/19401612231182618
+•	<b>Ozawa, J.</b>, Woolley, S., & Lukito, J. (2024). Taking the Power Back: How Diaspora Community Organizations Are Fighting Disinformation Spread. <i>Harvard Kennedy School Misinformation Review</i>. https://doi.org/10.37016/mr-2020-146
+
+•	<b>Ozawa, J.</b>, Lukito, J., Bailez, F., & Fakhouri, L. (2024). January 6 Capitol Attack vs January 8 Brasília Attack: Patriotism and Disinformation. <i>Harvard Kennedy School Misinformation Review</i>. https://doi.org/10.37016/mr-2020-137
+
+• <b>Ozawa, J.</b>, Lukito, J., Lee, T., Varma, A., & Alves, R. (2023). Attacks Against Journalists in Brazil: Catalyzing Effects and Resilience During Jair Bolsonaro's Government. <i>The International Journal of Press/Politics</i>. https://doi.org/10.1177/19401612231182618 [Jay Blumler Best Article Award]
 
 • <b>Ozawa, J.</b>, Woolley, S., Straubhaar, J., Riedl, M., Joseff, K., & Gursky, J. (2023). How Disinformation on WhatsApp Went from Campaign Weapon to Governmental Propaganda in Brazil. <i>Social Media + Society</i>, 9(1). https://doi.org/10.1177/20563051231160632
 
@@ -19,11 +29,27 @@ Here you find Joao Ozawa's latest publications.
 
 •	Riedl, M. J., Ozawa, J., Woolley, S., & Garimella, K. (2022) Talking Politics on WhatsApp: A Survey of Cuban, Indian, and Mexican American Diaspora Communities in the United States [White paper]. Center for Media Engagement. https://mediaengagement.org/research/whatsapp-politics-cuban-indian-mexican-american-communities-in-the-united-states/
 
-<b>Book chapters</b>
-
-•	Ozawa, J., & Coburn, C. (Accepted). Computational Propaganda. In Stroud, S. R. (Ed.), Media, Ethics, and Democracy [Textbook]. Center for Media Engagement.
-
 <b>Peer-reviewed conference papers</b>
+
+• de Carvalho, R., Ozawa, J., & Soto-Vásquez, A. D. (2025). Populist Connective Memories: YouTube Users' Reactions to the Coverage of the January Insurrections in Brazil and the United States. Paper presented at ICA 2025, Denver, CO. [Top Faculty Award, Global Communication and Social Change Division]
+
+• de Carvalho, R., Ozawa, J., & Soto-Vásquez, A. D. (2024). Memory-Making of the January Attacks in Brazil and the United States: Examining the Role of YouTube in Collective Remembrances of Far-Right Insurrections. Paper presented at the International Journal of Press/Politics Conference, Edinburgh, Scotland.
+
+• Ozawa, J., Woolley, S., Riedl, M., & Trauthig, I. (2024). WhatsApp Usage and Misinformation Belief: Surveying Cuban, Indian, and Mexican Diaspora Communities. Paper presented at AEJMC 2024, Philadelphia, PA.
+
+• Ozawa, J., Lukito, J., & Woolley, S. (2024). Jair Bolsonaro and WhatsApp: A Hybrid Mode of Computational Propaganda to Promote an Insurrection in Brazil. Paper presented at ICA 2024, Gold Coast, Australia.
+
+• Ozawa, J., & González de Bustamante, C. (2024). The Promise and Pitfalls of Mapping Exiled Journalists in Latin America: A Core-Periphery Approach. Paper presented at ICA 2024, Gold Coast, Australia.
+
+• Ozawa, J., & González de Bustamante, C. (2024). Responses to Attacks Against Journalists: A Comparative Study of Mexico and Brazil. Paper presented at IAMCR 2024, Christchurch, New Zealand.
+
+• Ozawa, J., & González de Bustamante, C. (2024). The Challenges of Mapping Exiled Journalists: A Core-Periphery Approach. Paper presented at LASA 2024, Bogotá, Colombia.
+
+• Ozawa, J., Woolley, S., & Trauthig, I. (2023). How Does the Brazilian Diaspora in the U.S. Make Sense of the January 8 Insurrection? A Study on Disinformation, WhatsApp, and Transnational Conspiracies. Paper presented at the Symposium on Misinformation & Marginalization, University of North Carolina at Chapel Hill, Chapel Hill, NC.
+
+• Ozawa, J., & González de Bustamante, C. (2023). The Challenges of Mapping Exiled Journalists: A Core-Periphery Approach. Paper presented at Global Fusion 2023, Austin, TX.
+
+•	DalBen Furtado, S., Ozawa, J., & González de Bustamante, C. (2023). Data Colonialism and Generative AI: Evaluating De-biasing Actions to Mitigate Harmful Content in Large Language Models. Paper presented at Global Fusion 2023, Austin, TX.
 
 •	Lee, T., Lukito, J., Varma, A., & Ozawa, J. (2023). Catalyzing Effects: Paradoxical Effects of Attempts to Chill on Journalism. Paper accepted for presentation at AEJMC 2023, Washington, DC.
 
